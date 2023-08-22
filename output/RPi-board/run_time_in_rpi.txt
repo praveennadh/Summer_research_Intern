@@ -1,0 +1,164 @@
+>>> %Run encr_final.py
+printing dimensions
+256
+256
+3
+####################################################
+camera.tif
+Elapsed Time : 6.944911144000001 seconds
+stage  :0
+Elapsed Time : 6.9368257369999995 seconds
+stage  :1
+Elapsed Time : 6.935159273 seconds
+stage  :2
+Elapsed Time : 6.8861008109999995 seconds
+stage  :3
+Elapsed Time : 6.889449903 seconds
+stage  :4
+Elapsed Time : 6.997315329 seconds
+stage  :5
+Elapsed Time : 7.025099625 seconds
+stage  :6
+Elapsed Time : 6.868202421 seconds
+stage  :7
+Elapsed Time : 6.882123496 seconds
+stage  :8
+Elapsed Time : 6.87475807 seconds
+stage  :9
+Elapsed Time : 6.883394607 seconds
+stage  :10
+Elapsed Time : 6.870614107 seconds
+stage  :11
+Elapsed Time : 6.87707581 seconds
+stage  :12
+Elapsed Time : 6.872254552 seconds
+stage  :13
+Elapsed Time : 6.858302199 seconds
+stage  :14
+Elapsed Time : 6.891837810999999 seconds
+stage  :15
+Elapsed Time : 6.928902162 seconds
+stage  :16
+Elapsed Time : 6.866949273 seconds
+stage  :17
+Elapsed Time : 6.874303774 seconds
+stage  :18
+Elapsed Time : 6.871688144 seconds
+stage  :19
+
+>>> %Run encr_final.py
+printing dimensions
+256
+256
+3
+####################################################
+bird.tif
+Elapsed Time : 7.296613033 seconds
+stage  :0
+Elapsed Time : 7.286509032 seconds
+stage  :1
+Elapsed Time : 7.255899533 seconds
+stage  :2
+Elapsed Time : 7.239092366 seconds
+stage  :3
+Elapsed Time : 7.277832551 seconds
+stage  :4
+Elapsed Time : 7.22639957 seconds
+stage  :5
+Elapsed Time : 7.2991469780000005 seconds
+stage  :6
+Elapsed Time : 7.318220699 seconds
+stage  :7
+Elapsed Time : 7.286040718000001 seconds
+stage  :8
+Elapsed Time : 7.223179107 seconds
+stage  :9
+Elapsed Time : 7.295155977 seconds
+
+
+
+>>> %Run encr_final.py
+printing dimensions
+256
+256
+3
+####################################################
+female.tiff
+Elapsed Time : 7.314430385 seconds
+stage  :0
+Elapsed Time : 7.298884606 seconds
+stage  :1
+Elapsed Time : 7.322957736999999 seconds
+stage  :2
+Elapsed Time : 7.3427959220000005 seconds
+stage  :3
+Elapsed Time : 7.285149588 seconds
+stage  :4
+Elapsed Time : 7.259394588 seconds
+stage  :5
+Elapsed Time : 7.297189736 seconds
+stage  :6
+Elapsed Time : 7.276860847 seconds
+stage  :7
+Elapsed Time : 7.279764292 seconds
+stage  :8
+Elapsed Time : 7.325604588 seconds
+stage  :9
+Elapsed Time : 7.323585514 seconds>>> %Run encr_final.py
+printing dimensions
+256
+256
+3
+####################################################
+Elapsed Time : 7.314430385 seconds
+stage  :0
+Elapsed Time : 7.298884606 seconds
+stage  :1
+Elapsed Time : 7.322957736999999 seconds
+stage  :2
+Elapsed Time : 7.3427959220000005 seconds
+stage  :3
+Elapsed Time : 7.285149588 seconds
+stage  :4
+Elapsed Time : 7.259394588 seconds
+stage  :5
+Elapsed Time : 7.297189736 seconds
+stage  :6
+Elapsed Time : 7.276860847 seconds
+stage  :7
+Elapsed Time : 7.279764292 seconds
+stage  :8
+Elapsed Time : 7.325604588 seconds
+stage  :9
+Elapsed Time : 7.323585514 seconds
+
+
+>>> %Run encr_final.py
+printing dimensions
+512
+512
+3
+####################################################
+lena_color.tif
+Elapsed Time : 28.091021483 seconds
+stage  :0
+Elapsed Time : 28.110148113 seconds
+stage  :1
+Elapsed Time : 28.131947427 seconds
+stage  :2
+Elapsed Time : 28.077660187 seconds
+stage  :3
+Elapsed Time : 28.101992687 seconds
+stage  :4
+Elapsed Time : 28.127011075 seconds
+stage  :5
+Elapsed Time : 28.420403705 seconds
+stage  :6
+Elapsed Time : 28.110205649999997 seconds
+stage  :7
+Elapsed Time : 28.411714409000002 seconds
+stage  :8
+Elapsed Time : 28.11966528 seconds
+stage  :9
+Elapsed Time : 28.890469483 seconds
+stage  :10
